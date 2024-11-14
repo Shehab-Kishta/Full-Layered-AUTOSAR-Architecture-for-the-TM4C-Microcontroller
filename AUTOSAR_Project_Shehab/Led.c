@@ -6,7 +6,8 @@
  *
  * Description: Source file for Led Module.
  *
- * Author: Mohamed Tarek
+ * Author: Shehab Kishta
+ *
  ******************************************************************************/
 #include "Port.h"
 #include "Dio.h"
