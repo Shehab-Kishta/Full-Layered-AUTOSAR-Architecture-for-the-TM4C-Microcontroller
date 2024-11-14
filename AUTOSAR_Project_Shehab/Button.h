@@ -6,7 +6,7 @@
  *
  * Description: Header file for Button Module.
  *
- * Author: Mohamed Tarek
+ * Author: Shehab Kishta
  ******************************************************************************/
 #ifndef BUTTON_H
 #define BUTTON_H
