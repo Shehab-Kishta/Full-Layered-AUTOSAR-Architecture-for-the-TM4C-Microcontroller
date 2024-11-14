@@ -6,7 +6,8 @@
  *
  * Description: Pre-Compile Configuration Header file for TM4C123GH6PM Microcontroller - Dio Driver
  *
- * Author: Mohamed Tarek
+ * Author: Shehab Kishta
+ *
  ******************************************************************************/
 
 #ifndef DIO_CFG_H
