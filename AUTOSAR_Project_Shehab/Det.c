@@ -6,7 +6,8 @@
  *
  * Description:  Det stores the development errors reported by other modules.
  *
- * Author: Mohamed Tarek
+ * Author: Shehab Kishta
+ *
  ******************************************************************************/
 
 #include "Det.h"
